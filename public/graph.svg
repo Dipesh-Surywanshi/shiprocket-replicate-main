@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.349" height="22.581" viewBox="0 0 30.349 22.581">
+    <defs>
+        <clipPath id="ifyktgcaqa">
+            <path data-name="Rectangle 13425" style="fill:#6149cd;stroke:#6149cd;stroke-width:.3px" d="M0 0h30.349v22.581H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Group 39852" style="clip-path:url(#ifyktgcaqa)">
+        <path data-name="Path 27700" d="M86.627 225.564h2.8a.356.356 0 0 0 .356-.356v-3.2a.356.356 0 0 0-.356-.356h-2.8a.356.356 0 0 0-.356.356v3.2a.356.356 0 0 0 .356.356" transform="translate(-80.792 -207.579)" style="fill:#6149cd;stroke:#6149cd;stroke-width:.3px"/>
+        <path data-name="Path 27701" d="M172.763 167.081h-2.8a.356.356 0 0 0-.356.356v6.663a.356.356 0 0 0 .356.356h2.8a.356.356 0 0 0 .356-.356v-6.662a.356.356 0 0 0-.356-.356" transform="translate(-158.835 -156.469)" style="fill:#6149cd;stroke:#6149cd;stroke-width:.3px"/>
+        <path data-name="Path 27702" d="M256.1 197.734h-2.8a.356.356 0 0 0-.356.356v4.715a.356.356 0 0 0 .356.356h2.8a.356.356 0 0 0 .356-.356v-4.715a.356.356 0 0 0-.356-.356" transform="translate(-236.879 -185.175)" style="fill:#6149cd;stroke:#6149cd;stroke-width:.3px"/>
+        <path data-name="Path 27703" d="M339.44 162.437h-2.8a.356.356 0 0 0-.356.356v6.957a.356.356 0 0 0 .356.356h2.8a.356.356 0 0 0 .356-.356v-6.957a.356.356 0 0 0-.356-.356" transform="translate(-314.926 -152.12)" style="fill:#6149cd;stroke:#6149cd;stroke-width:.3px"/>
+        <path data-name="Path 27704" d="M89.386 71.491a1.59 1.59 0 0 0 1.588-1.591 1.574 1.574 0 0 0-.25-.847l3.174-3.2a1.56 1.56 0 0 0 1.808-.077l2.86 2.324a1.574 1.574 0 0 0-.112.575 1.588 1.588 0 1 0 3.177 0 1.569 1.569 0 0 0-.056-.4l2.645-1.787a1.65 1.65 0 1 0-.339-.629l-2.639 1.783a1.567 1.567 0 0 0-2.272-.133l-2.808-2.274a1.57 1.57 0 0 0 .176-.712 1.588 1.588 0 0 0-3.177 0 1.573 1.573 0 0 0 .24.828l-3.182 3.207a1.573 1.573 0 0 0-.833-.242 1.588 1.588 0 0 0 0 3.177" transform="translate(-82.222 -58.935)" style="fill:#6149cd;stroke:#6149cd;stroke-width:.3px"/>
+        <path data-name="Path 27713" d="M0 0v19.9" transform="translate(1.99 1.421)" style="fill:none;stroke:#6149ce"/>
+        <path data-name="Path 27714" d="M-.082 0h26.677" transform="translate(1.575 20.884)" style="fill:none;stroke:#6149ce"/>
+    </g>
+</svg>
